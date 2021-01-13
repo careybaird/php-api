@@ -2,3 +2,7 @@
 /composer.lock
 /vendor
 .idea/workspace.xml
+.idea/vcs.xml
+.idea/php.xml
+.idea/php-api.iml
+.idea/modules.xml
